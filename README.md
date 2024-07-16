@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/Vishnu2250"><img src="https://github-profile-trophy.vercel.app/?username=saikiran-anandas" alt="saikiran-anandas" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/PashikantiVish1" target="blank"><img src="https://img.shields.io/twitter/follow/saikirananandas?logo=twitter&style=for-the-badge" alt="Vishnu Vardhan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PashikantiVish1" target="blank"><img src="https://www.buymeacoffee.com/VishnuVardhan"&style=for-the-badge" alt="Vishnu Vardhan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at -
 
@@ -26,8 +26,8 @@
 <p align="left">
 <a href="https://twitter.com/PashikantiVish1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saikirananandas" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pashikanti-vishnu-vardhan-256a1a26a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikirananandas" height="30" width="40" /></a>
-<a href="https://m.facebook.com/vishnuvardhan.pashikanti.225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saikirananandas" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vichu11_?igsh=NXk3bzc3eGh4OXR3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saikiran_anandas" height="30" width="40" /></a>
+<a href="https://m.facebook.com/vishnuvardhan.pashikanti.225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Vishnu Vardhan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vichu11_?igsh=NXk3bzc3eGh4OXR3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishnu vardhan" height="30" width="40" /></a>
 <a href="https://discord.gg/#3009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3009" height="30" width="40" /></a>
 </p>
 
@@ -36,6 +36,6 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/SaikiranAnandas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SaikiranAnandas" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/VishnuVardhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Vishnu Vardhan" /></a></p><br><br>
 
 
