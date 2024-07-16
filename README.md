@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/Vishnu2250"><img src="https://github-profile-trophy.vercel.app/?username=saikiran-anandas" alt="saikiran-anandas" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/PashikantiVish1" target="blank"><img src="https://img.shields.io/twitter/follow/saikirananandas?logo=twitter&style=for-the-badge" alt="saikirananandas" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PashikantiVish1" target="blank"><img src="https://img.shields.io/twitter/follow/saikirananandas?logo=twitter&style=for-the-badge" alt="Vishnu Vardhan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at -
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://twitter.com/PashikantiVish1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saikirananandas" height="30" width="40" /></a>
+<a href="https://twitter.com/PashikantiVish1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saikirananandas" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pashikanti-vishnu-vardhan-256a1a26a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikirananandas" height="30" width="40" /></a>
 <a href="https://m.facebook.com/vishnuvardhan.pashikanti.225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saikirananandas" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vichu11_?igsh=NXk3bzc3eGh4OXR3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saikiran_anandas" height="30" width="40" /></a>
