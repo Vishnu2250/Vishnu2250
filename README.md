@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/Vishnu2250"><img src="https://github-profile-trophy.vercel.app/?username=saikiran-anandas" alt="saikiran-anandas" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/PashikantiVish1" target="blank"><img src="https://www.buymeacoffee.com/VishnuVardhan"&style=for-the-badge" alt="Vishnu Vardhan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PashikantiVish1" target="blank"><img src="https://img.shields.io/twitter/follow/PashikantiVish1?logo=twitter&style=for-the-badge" alt="Vishnu Vardhan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at -
 
