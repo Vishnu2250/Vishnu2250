@@ -15,7 +15,8 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, MongoDB, React.js, Express, Node.js**
 
-- 📫 How to reach me **pashikantivishnvardhan3@gmail.com**
+- 📫 How to reach me **💌pashikantivishnvardhan3@gmail.com**
+-                     ** +91- 9676899531**
 
 
 - ⚡ Fun fact **I am an Introvert**
