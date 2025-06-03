@@ -45,3 +45,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu2250&" alt="Vishnu2250" /></p>
 
+📸 Instagram: [@Vichu11_](https://www.instagram.com/Vichu11-)
